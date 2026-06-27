@@ -1,9 +1,34 @@
-Creator: Soren Beigi
-Last Edit: 2025-05-13
+# Project Moonlight
 
-Link: https://moonlight-zeta-three.vercel.app/
-A parfume ecommerce built mainly with react and designed primary by Tailwindcss.
-All images and videos used in the video are deployed by usage of links, which means there are no images or videos stored in the project.
+A perfume e-commerce web application built with React and Tailwind CSS.
 
-// Project is not finished and is due to be improved in future updates.
+**Live demo:** https://moonlight-zeta-three.vercel.app/
 
+## Tech Stack
+
+- **Framework:** React
+- **Styling:** Tailwind CSS
+- **Deployment:** Vercel
+
+## Features
+
+- Perfume product browsing and e-commerce UI
+- All images and videos are loaded via external links — no static assets stored in the repo
+- Responsive design with Tailwind CSS
+
+## Getting Started
+
+```bash
+git clone https://github.com/SorenUPP/Project-moon-light.git
+cd Project-moon-light
+npm install
+npm start
+```
+
+## Status
+
+Work in progress — further improvements planned.
+
+## License
+
+MIT
